@@ -1,0 +1,11 @@
+body {
+  
+    padding: 100%;
+    font-size: 100%;
+    background-color: white;
+
+    position:absolute; 
+    left:-700px; 
+    top:-1100px;
+
+}
